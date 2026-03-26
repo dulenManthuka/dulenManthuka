@@ -1,6 +1,6 @@
 [![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)
 <h1 align="center">Hi 👋, I'm Dulen Manthuka </h1>
-<h3 align="center">Intern Quality Assurance Engineer | Information Systems Engineering | SLIIT | Manual Testing & Test Automation | ERP Enthusiast r</h3>
+<h3 align="center">Intern Quality Assurance Engineer | Information Systems Engineering | SLIIT | Manual Testing & Test Automation | ERP Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dulenmanthuka&label=Profile%20views&color=0e75b6&style=flat" alt="dulenmanthuka" /> </p>
 
